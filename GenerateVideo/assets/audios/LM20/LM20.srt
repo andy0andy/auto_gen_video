@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:09,680
+The LM20 is a Precision Analog Output CMOS Integrated Circuit Temperature Sensor that
+
+2
+00:00:09,680 --> 00:00:21,120
+operates over 55 C to 130 C. The transfer function of LM20 is predominantly linear,
+
+3
+00:00:21,120 --> 00:00:24,920
+yet has a slight predictable parabolic curvature.
+

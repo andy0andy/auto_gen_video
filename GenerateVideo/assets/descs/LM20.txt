@@ -1,1 +1,0 @@
-The LM20 is a precision analog output CMOS integrated-circuit temperature sensor that operates over −55°C to 130°C. The transfer function of LM20 is predominately linear, yet has a slight predictable parabolic curvature.
